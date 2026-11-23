@@ -1,0 +1,59 @@
+# Dart and Flutter generated files (keep pubspec.lock for this app).
+.dart_tool/
+.pub/
+.pub-cache/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+coverage/
+flutter_export_environment.sh
+app.*.symbols
+app.*.map.json
+
+# Android and Kotlin caches, native build output, and local SDK paths.
+.gradle/
+.kotlin/
+.externalNativeBuild/
+.cxx/
+captures/
+local.properties
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+
+# Packaged releases and their generated checksums.
+*.apk
+*.apk.sha256
+*.aab
+*.aab.sha256
+*.apks
+
+# Local signing configuration and private keys; keep example configuration.
+key.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pepk
+
+# Local environment settings; allow documented examples.
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Editor, operating-system, and temporary files.
+.idea/
+*.iml
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local assistant state and credentials.
+/.agents/
+/.codex/
+/.aws/
+/.gemini_security/

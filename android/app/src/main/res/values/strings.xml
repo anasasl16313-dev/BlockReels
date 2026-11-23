@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BlockReels</string>
+    <string name="accessibility_service_description">BlockReels detects addictive short-form video feeds (Reels, Shorts, TikTok) and provides mindful interventions with zero network access.</string>
+    <string name="mindfulness_icon_desc">Mindfulness Pause Icon</string>
+    <string name="overlay_default_title">Take a Mindful Pause</string>
+    <string name="overlay_default_message">Short videos are engineered for endless scrolling. Take a deep breath and stay intentional.</string>
+    <string name="exit_reels">Leave this feed</string>
+    <string name="hold_to_unlock">Hold to Unlock</string>
+    <string name="strict_mode_active">This short-video feed is blocked. Leave this feed to continue.</string>
+    <string name="exit_in_progress">Leaving TikTok…</string>
+    <string name="exit_not_confirmed">Use your device’s Home button</string>
+    <string name="exit_not_confirmed_help">Leaving TikTok could not be confirmed. Press your device’s Home button to leave.</string>
+</resources>
