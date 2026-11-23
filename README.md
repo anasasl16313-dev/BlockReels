@@ -38,6 +38,11 @@ After dependencies are cached, the local verification command is
 Review changes to the Accessibility service on a real Android device before
 sharing a release build.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for build and pull request guidance.
+Report security and privacy issues as described in [SECURITY.md](SECURITY.md).
+
 ## License
 
 BlockReels source code is available under the [MIT License](LICENSE).
